@@ -1,2 +1,2 @@
-text = input("Enter text: ")
+user_input = input("Enter text: ")
 print(text)
